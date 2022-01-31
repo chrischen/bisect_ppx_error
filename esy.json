@@ -3,7 +3,7 @@
   "dependencies": {
     "ocaml": "4.12.x",
     "melange": "melange-re/melange",
-    "@opam/ocaml-lsp-server": "*"
+    "@opam/ocaml-lsp-server": "1.8.3"
   },
   "esy": {
     "buildsInSource": "unsafe",
